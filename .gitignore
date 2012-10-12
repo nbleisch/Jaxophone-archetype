@@ -1,5 +1,5 @@
-*/target
-*/src/main/generated-sources
+target
+/src/main/generated-sources
 .settings
 .project
 .classpath
