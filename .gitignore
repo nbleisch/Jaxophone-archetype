@@ -1,1 +1,7 @@
-target/
+*/target
+*/src/main/generated-sources
+.settings
+.project
+.classpath
+.idea
+*/*.iml
